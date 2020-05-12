@@ -1,5 +1,6 @@
 
-:root {background-color: goldenrod;height: 20px;}
+
+   :root {color: goldenrod; height: 20px;}
    h1 {text-align: center; color: red;}
-.center {text-align: center;}
- #searchbar {position: absolute;}
+   .center {text-align: center;}
+    #searchbar {position: absolute}
